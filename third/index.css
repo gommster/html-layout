@@ -1,0 +1,31 @@
+.grey {
+    background-color: grey;
+    height: 14vh;
+}
+
+.white {
+    height: 14vh;
+    background-color: white;
+    font-size: 35px;
+    padding: 35px;
+}
+
+.blue {
+    height: 14vh;
+    background-color: lightblue;
+}
+
+.aqua {
+    height: 14vh;
+    background-color: aqua;
+}
+
+.olive {
+    height: 14vh;
+    background-color: olive;
+}
+
+.yellow {
+    height: 14vh;
+    background-color: yellow;
+}
