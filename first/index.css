@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(216,216,216);
+}
+
+header {
+    background-color: rgb(68,68,68);
+    height: 20vh;
+    width: 100vw;
+}
+
+.content-left {
+    float: left;
+    width: 20vw;
+    height: 80vh;
+}
+
+.content-mid {
+    background-color: rgb(239,239,239);
+    float: left;
+    width: 60vw;
+    height: 60vh;
+}
+
+footer {
+    background-color: rgb(34,34,34);
+    float: left;
+    width: 60vw;
+    height: 20vh;
+}
